@@ -1,0 +1,19 @@
+.page header {
+    
+}
+.logo text {
+position: absolute;
+    width: 115px;
+    height: 24px;
+    left: 156px;
+    top: 24px;
+}
+span {
+    width: 44px;
+        height: 21px;
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 21px;
+}
