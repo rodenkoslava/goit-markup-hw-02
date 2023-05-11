@@ -8,7 +8,7 @@ position: absolute;
 .logo text {
 width: 44px;
     height: 21px;
-    font-family: 'Raleway';
+    font-family: "Raleway", sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -21,7 +21,7 @@ width: 44px;
 span {
     width: 71px;
         height: 21px;
-        font-family: 'Raleway';
+        font-family: 'Raleway', sans-serif;
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
