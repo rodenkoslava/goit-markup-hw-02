@@ -88,3 +88,165 @@ body {
 .address-link:focus {
     color: var(--second-main-color);
 }
+
+.hero {
+    background: var(--title-color);
+}
+
+.hero-text {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.hero-btn {
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: var(--tipical-line-height);
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    background: var(--first-main-color);
+    cursor: pointer;
+}
+
+.section-principles {}
+
+.principles-title {}
+
+.visually-hidden {}
+
+.principles-list {}
+
+.principles-item {}
+
+.page-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--title-color);
+}
+
+.principles-text {
+    font-size: 16px;
+    line-height: var(--tipical-line-height);
+    letter-spacing: 0.02em;
+}
+
+/*-----OUR PRODUCTS-----*/
+
+.product-section {}
+
+.body-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--title-color);
+}
+
+.product-list {}
+
+.product-item {}
+
+/*-----OUR TEAM-----*/
+
+.team-section {
+    background: var(--white-color);
+}
+
+.body-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--title-color);
+}
+
+.team-list {}
+
+.team-item {
+    background-color: #ffffff
+}
+
+.team-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: var(--title-color);
+}
+
+.team-text {
+    font-size: 16px;
+    line-height: var(--tipical-line-height);
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+
+/*-----MENU BUTTON-----*/
+
+.section-btn {}
+
+.filter-title {}
+
+.btn-list {
+    list-style: none;
+}
+
+.btn-item {}
+
+/*-----OUR GALLERY-----*/
+
+.gallery-list {}
+
+.gallery-item {}
+
+.gallery-link {
+    font-family: inherit";
+ font-style: normal;
+}
+
+.gallery-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--title-color);
+}
+
+.gallery-text {
+    font-size: 16px;
+    line-height: var(--tipical-line-height);
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/*-----FOOTER-----*/
+
+.footer-section {
+    background: var(--title-color);
+}
+
+.footer-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--white-color);
+}
+
+.footer-logo-first {
+    color: var(--first-main-color);
+}
+
+.footer-logo-second {
+    color: var(--white-color);
+}
