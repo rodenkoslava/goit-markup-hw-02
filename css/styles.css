@@ -117,8 +117,6 @@ body {
 
 .address-link {
     font-family: inherit;
-    font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: var(--tipical-line-height);
     letter-spacing: 0.02em;
