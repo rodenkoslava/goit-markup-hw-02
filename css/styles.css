@@ -112,7 +112,7 @@ body {
     cursor: pointer;
 }
 
-.bhero-btn:hover,
+.hero-btn:hover,
 .hero-btn:focus {
     background: var(--second-main-color);
 }
