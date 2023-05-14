@@ -250,3 +250,41 @@ body {
 .footer-logo-second {
     color: var(--white-color);
 }
+
+/*-----MENU BUTTON-----*/
+
+.section-btn {}
+
+.filter-title {}
+
+.btn-list {
+    list-style: none;
+}
+
+.btn-item {}
+
+/*-----OUR GALLERY-----*/
+
+.gallery-list {}
+
+.gallery-item {}
+
+.gallery-link {
+    font-family: inherit";
+ font-style: normal;
+}
+
+.gallery-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--title-color);
+}
+
+.gallery-text {
+    font-size: 16px;
+    line-height: var(--tipical-line-height);
+    letter-spacing: 0.02em;
+    color: #434455;
+}
