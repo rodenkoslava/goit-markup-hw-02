@@ -83,17 +83,17 @@ body {
 
 /*-----HEADER-----*/
 
-.header-section {}
+/* .header-section {}
 
 .header-navigation {}
 
 .nav-list {}
 
 .nav-item {}
-
+ */
 .header-link {
-    font-family: inherit ";
- font-style: normal;
+    font-family: inherit;
+    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: var(--tipical-line-height);
@@ -110,9 +110,10 @@ body {
     font-style: normal;
 }
 
+/* 
 .address-list {}
 
-.address-item {}
+.address-item {} */
 
 .address-link {
     font-family: inherit;
@@ -158,7 +159,7 @@ body {
 
 /*-----OUR PRINCIPLES AND PRIORITIES-----*/
 
-.section-principles {}
+/* .section-principles {}
 
 .principles-title {}
 
@@ -166,7 +167,7 @@ body {
 
 .principles-list {}
 
-.principles-item {}
+.principles-item {} */
 
 .page-subtitle {
     font-weight: 500;
@@ -184,7 +185,7 @@ body {
 
 /*-----OUR PRODUCTS-----*/
 
-.product-section {}
+/* .product-section {} */
 
 .body-title {
     font-weight: 700;
@@ -196,9 +197,9 @@ body {
     color: var(--title-color);
 }
 
-.product-list {}
+/* .product-list {}
 
-.product-item {}
+.product-item {} */
 
 /*-----OUR TEAM-----*/
 
@@ -216,7 +217,7 @@ body {
     color: var(--title-color);
 }
 
-.team-list {}
+/* .team-list {} */
 
 .team-item {
     background-color: #ffffff
@@ -240,25 +241,25 @@ body {
 
 /*-----MENU BUTTON-----*/
 
-.section-btn {}
+/* .section-btn {}
 
-.filter-title {}
+.filter-title {} */
 
 .btn-list {
     list-style: none;
 }
 
-.btn-item {}
+/* .btn-item {} */
 
 /*-----OUR GALLERY-----*/
 
-.gallery-list {}
+/* .gallery-list {}
 
-.gallery-item {}
+.gallery-item {} */
 
 .gallery-link {
-    font-family: inherit";
- font-style: normal;
+    font-family: inherit;
+    font-style: normal;
 }
 
 .gallery-title {
