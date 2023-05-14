@@ -6,6 +6,7 @@
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
     color: #2E2F42;
 }
 
@@ -16,6 +17,7 @@ span {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-transform: uppercase;
     color: #2E2F42;
 }
 
@@ -26,6 +28,7 @@ span {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
     color: #4D5AE5;
 }
 
@@ -36,6 +39,7 @@ span {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-transform: uppercase;
     color: #2E2F42;
 }
 
@@ -77,4 +81,12 @@ span {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.link {
+    text-decoration: none
+}
+
+.list {
+    list-style: none
 }
