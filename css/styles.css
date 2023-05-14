@@ -60,3 +60,31 @@ body {
     letter-spacing: 0.02em;
     color: var(--title-color);
 }
+
+.header-link:hover,
+.header-link:focus {
+    color: var(--second-main-color);
+}
+
+.address {
+    font-style: normal;
+}
+
+/* .address-list {}
+
+.address-item {}
+ */
+.address-link {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: var(--tipical-line-height);
+    letter-spacing: 0.02em;
+    color: inherit;
+}
+
+.address-link:hover,
+.address-link:focus {
+    color: var(--second-main-color);
+}
