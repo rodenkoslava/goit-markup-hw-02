@@ -275,6 +275,12 @@ body {
 
 .btn-item {}
 
+.btn-portfolio:hover,
+.btn-portfolio:focus {
+    color: #ffffff;
+    background: var(--second-main-color);
+}
+
 /*-----OUR GALLERY-----*/
 
 .gallery-list {}
