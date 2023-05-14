@@ -21,7 +21,7 @@ body {
     list-style: none
 }
 
-/* .header {}
+.header {}
 
 .header-navigation {}
 
@@ -29,7 +29,7 @@ body {
 
 .header-list {}
 
-.header-item {} */
+.header-item {}
 
 .header-link-first {
     color: var(--first-main-color);
