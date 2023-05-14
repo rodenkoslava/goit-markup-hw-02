@@ -275,6 +275,17 @@ body {
 
 .btn-item {}
 
+.btn-portfolio {
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: var(--tipical-line-height);
+    letter-spacing: 0.04em;
+    color: var(--first-main-color);
+    background: var(--white-color);
+    cursor: pointer;
+}
+
 .btn-portfolio:hover,
 .btn-portfolio:focus {
     color: #ffffff;
