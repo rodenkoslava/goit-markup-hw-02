@@ -66,6 +66,7 @@ span {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .header-address-link {
@@ -75,52 +76,5 @@ span {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-}
-
-
-/* 
-.logo-text {
-    font-family: "Raleway", sans-serif;
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    color: #2E2F42;
-}
-
-span {
-    color: #4D5AE5;
-
-    /* Site navigation */
-.nav {
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-}
-
-.list {
-    list-style: none;
-}
-
-.text {
-    list-style: none;
-}
-
-/* Contacts */
-.mail {
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-}
-
-.phone {
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
+    color: #434455;
 }
