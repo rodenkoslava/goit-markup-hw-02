@@ -89,8 +89,8 @@ span {
     text-decoration: none
 }
 
-.link:hover,
-.link:focus {
+.link-text:hover,
+.link-text:focus {
     color: #404bbf
 }
 
