@@ -263,6 +263,18 @@ body {
 
 .btn-item {}
 
+/*-----MENU BUTTON-----*/
+
+.section-btn {}
+
+.filter-title {}
+
+.btn-list {
+    list-style: none;
+}
+
+.btn-item {}
+
 /*-----OUR GALLERY-----*/
 
 .gallery-list {}
