@@ -39,286 +39,289 @@ body {
     color: var(--first-main-color);
 }
 
-.link-text {
-    font-family: "Raleway", sans-serif;
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-}
-
-.header-link {
-    font-family: inherit;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: var(--tipical-line-height);
-    letter-spacing: 0.02em;
+.header-logo-second {
     color: var(--title-color);
-}
 
-.header-link:hover,
-.header-link:focus {
-    color: var(--second-main-color);
-}
+    .link-text {
+        font-family: "Raleway", sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+    }
 
-.address {
-    font-style: normal;
-}
+    .header-link {
+        font-family: inherit;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: var(--tipical-line-height);
+        letter-spacing: 0.02em;
+        color: var(--title-color);
+    }
 
-/* .address-list {}
+    .header-link:hover,
+    .header-link:focus {
+        color: var(--second-main-color);
+    }
+
+    .address {
+        font-style: normal;
+    }
+
+    /* .address-list {}
 
 .address-item {}
  */
-.address-link {
-    font-family: inherit;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: var(--tipical-line-height);
-    letter-spacing: 0.02em;
-    color: inherit;
-}
+    .address-link {
+        font-family: inherit;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: var(--tipical-line-height);
+        letter-spacing: 0.02em;
+        color: inherit;
+    }
 
-.address-link:hover,
-.address-link:focus {
-    color: var(--second-main-color);
-}
+    .address-link:hover,
+    .address-link:focus {
+        color: var(--second-main-color);
+    }
 
-.hero {
-    background: var(--title-color);
-}
+    .hero {
+        background: var(--title-color);
+    }
 
-.hero-text {
-    font-size: 56px;
-    line-height: 1.07;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #ffffff;
-}
+    .hero-text {
+        font-size: 56px;
+        line-height: 1.07;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #ffffff;
+    }
 
-.hero-btn {
-    font-family: inherit;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: var(--tipical-line-height);
-    letter-spacing: 0.04em;
-    color: #ffffff;
-    background: var(--first-main-color);
-    cursor: pointer;
-}
+    .hero-btn {
+        font-family: inherit;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: var(--tipical-line-height);
+        letter-spacing: 0.04em;
+        color: #ffffff;
+        background: var(--first-main-color);
+        cursor: pointer;
+    }
 
-.hero-btn:hover,
-.hero-btn:focus {
-    background: var(--second-main-color);
-}
+    .hero-btn:hover,
+    .hero-btn:focus {
+        background: var(--second-main-color);
+    }
 
-.section-principles {}
+    .section-principles {}
 
-.principles-title {}
+    .principles-title {}
 
-.visually-hidden {}
+    .visually-hidden {}
 
-.principles-list {}
+    .principles-list {}
 
-.principles-item {}
+    .principles-item {}
 
-.page-subtitle {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: var(--title-color);
-}
+    .page-subtitle {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: var(--title-color);
+    }
 
-.principles-text {
-    font-size: 16px;
-    line-height: var(--tipical-line-height);
-    letter-spacing: 0.02em;
-}
+    .principles-text {
+        font-size: 16px;
+        line-height: var(--tipical-line-height);
+        letter-spacing: 0.02em;
+    }
 
-/*-----OUR PRODUCTS-----*/
+    /*-----OUR PRODUCTS-----*/
 
-.product-section {}
+    .product-section {}
 
-.body-title {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: var(--title-color);
-}
+    .body-title {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: var(--title-color);
+    }
 
-.product-list {}
+    .product-list {}
 
-.product-item {}
+    .product-item {}
 
-/*-----OUR TEAM-----*/
+    /*-----OUR TEAM-----*/
 
-.team-section {
-    background: var(--white-color);
-}
+    .team-section {
+        background: var(--white-color);
+    }
 
-.body-title {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: var(--title-color);
-}
+    .body-title {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: var(--title-color);
+    }
 
-.team-list {}
+    .team-list {}
 
-.team-item {
-    background-color: #ffffff
-}
+    .team-item {
+        background-color: #ffffff
+    }
 
-.team-title {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: var(--title-color);
-}
+    .team-title {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: var(--title-color);
+    }
 
-.team-text {
-    font-size: 16px;
-    line-height: var(--tipical-line-height);
-    text-align: center;
-    letter-spacing: 0.02em;
-}
+    .team-text {
+        font-size: 16px;
+        line-height: var(--tipical-line-height);
+        text-align: center;
+        letter-spacing: 0.02em;
+    }
 
-/*-----MENU BUTTON-----*/
+    /*-----MENU BUTTON-----*/
 
-.section-btn {}
+    .section-btn {}
 
-.filter-title {}
+    .filter-title {}
 
-.btn-list {
-    list-style: none;
-}
+    .btn-list {
+        list-style: none;
+    }
 
-.btn-item {}
+    .btn-item {}
 
-/*-----OUR GALLERY-----*/
+    /*-----OUR GALLERY-----*/
 
-.gallery-list {}
+    .gallery-list {}
 
-.gallery-item {}
+    .gallery-item {}
 
-.gallery-link {
-    font-family: inherit";
+    .gallery-link {
+        font-family: inherit";
  font-style: normal;
-}
+    }
 
-.gallery-title {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: var(--title-color);
-}
+    .gallery-title {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: var(--title-color);
+    }
 
-.gallery-text {
-    font-size: 16px;
-    line-height: var(--tipical-line-height);
-    letter-spacing: 0.02em;
-    color: #434455;
-}
+    .gallery-text {
+        font-size: 16px;
+        line-height: var(--tipical-line-height);
+        letter-spacing: 0.02em;
+        color: #434455;
+    }
 
-/*-----FOOTER-----*/
+    /*-----FOOTER-----*/
 
-.footer-section {
-    background: var(--title-color);
-}
+    .footer-section {
+        background: var(--title-color);
+    }
 
-.footer-text {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--white-color);
-}
+    .footer-text {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: var(--white-color);
+    }
 
-.footer-logo-first {
-    color: var(--first-main-color);
-}
+    .footer-logo-first {
+        color: var(--first-main-color);
+    }
 
-.footer-logo-second {
-    color: var(--white-color);
-}
+    .footer-logo-second {
+        color: var(--white-color);
+    }
 
-/*-----MENU BUTTON-----*/
+    /*-----MENU BUTTON-----*/
 
-.section-btn {}
+    .section-btn {}
 
-.filter-title {}
+    .filter-title {}
 
-.btn-list {
-    list-style: none;
-}
+    .btn-list {
+        list-style: none;
+    }
 
-.btn-item {}
+    .btn-item {}
 
-/*-----MENU BUTTON-----*/
+    /*-----MENU BUTTON-----*/
 
-.section-btn {}
+    .section-btn {}
 
-.filter-title {}
+    .filter-title {}
 
-.btn-list {
-    list-style: none;
-}
+    .btn-list {
+        list-style: none;
+    }
 
-.btn-item {}
+    .btn-item {}
 
-.btn-portfolio {
-    font-family: inherit;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: var(--tipical-line-height);
-    letter-spacing: 0.04em;
-    color: var(--first-main-color);
-    background: var(--white-color);
-    cursor: pointer;
-}
+    .btn-portfolio {
+        font-family: inherit;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: var(--tipical-line-height);
+        letter-spacing: 0.04em;
+        color: var(--first-main-color);
+        background: var(--white-color);
+        cursor: pointer;
+    }
 
-.btn-portfolio:hover,
-.btn-portfolio:focus {
-    color: #ffffff;
-    background: var(--second-main-color);
-}
+    .btn-portfolio:hover,
+    .btn-portfolio:focus {
+        color: #ffffff;
+        background: var(--second-main-color);
+    }
 
-/*-----OUR GALLERY-----*/
+    /*-----OUR GALLERY-----*/
 
-.gallery-list {}
+    .gallery-list {}
 
-.gallery-item {}
+    .gallery-item {}
 
-.gallery-link {
-    font-family: inherit";
+    .gallery-link {
+        font-family: inherit";
  font-style: normal;
-}
+    }
 
-.gallery-title {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: var(--title-color);
-}
+    .gallery-title {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: var(--title-color);
+    }
 
-.gallery-text {
-    font-size: 16px;
-    line-height: var(--tipical-line-height);
-    letter-spacing: 0.02em;
-    color: #434455;
-}
+    .gallery-text {
+        font-size: 16px;
+        line-height: var(--tipical-line-height);
+        letter-spacing: 0.02em;
+        color: #434455;
+    }
