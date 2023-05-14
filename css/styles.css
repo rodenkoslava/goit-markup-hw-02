@@ -89,6 +89,11 @@ span {
     text-decoration: none
 }
 
+.link:hover,
+.link:focus {
+    color: #404bbf
+}
+
 .list {
     list-style: none
 }
